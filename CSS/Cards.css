@@ -1,0 +1,13 @@
+.Cards
+{
+    display: flex;
+    justify-content: space-around;   
+}
+
+.card1, .card2, .card3
+{
+    width: 300px;
+    height: 400px;
+    text-align: justify;
+    text-align: center;
+}
